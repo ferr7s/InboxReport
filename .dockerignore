@@ -1,0 +1,8 @@
+.env
+.git
+.codex
+__pycache__/
+*.pyc
+credentials.json
+token.json
+daily_digest.md
